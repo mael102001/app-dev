@@ -1,5 +1,5 @@
 # app-dev
-My first repository
+## My first repository
 **A sniper's war**
 *In the intense sniper's war movie, the protagonist's stealthy movements added a layer of suspense to every shot fired*
 1. Overview
@@ -12,5 +12,5 @@ My first repository
 > Here are some of the things that make A Sniper's War a great documentary
 ---
 [A sniper's war](https://www.example.com)
-![A tense sniper's movie follows a skilled marksman through high-stakes missions, delivering precision and suspense.](asniper'swar.jpg)
+![A Sniper's war](sniper'swar.png)
 
