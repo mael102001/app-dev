@@ -12,5 +12,5 @@ My first repository
 > Here are some of the things that make A Sniper's War a great documentary
 ---
 [A sniper's war](https://www.example.com)
-![A tense sniper's movie follows a skilled marksman through high-stakes missions, delivering precision and suspense.](A sniper's movie.png)
+![A tense sniper's movie follows a skilled marksman through high-stakes missions, delivering precision and suspense.](asniper'swar.jpg)
 
